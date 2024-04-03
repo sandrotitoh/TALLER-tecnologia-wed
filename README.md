@@ -1,2 +1,2 @@
 # TALLER-tecnologia-wed
-programa de practica
+programa de practica para la clases de programacion
